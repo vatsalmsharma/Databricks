@@ -1,0 +1,3 @@
+cust_id,event_type,event_ts,first_name,last_name,email,phone,addr_city,addr_state,addr_postal
+1001,UPDATE,2026-01-21T09:30:00Z,Alicia,Smith,alicia.smith@example.com,555-1001,Denver,CO,80202
+1003,INSERT,2026-01-21T10:00:00Z,Vatsal,Sharma,vatsal.sharma@example.com,555-1003,Salt Lake,UT,84009

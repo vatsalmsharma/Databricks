@@ -1,0 +1,6 @@
+cust_id,event_type,event_ts,first_name,last_name,email,phone,addr_city,addr_state,addr_postal
+1004,INSERT,,Varun,Mahajan,varun.mahajan@example.com,555-1004,Salt Lake,UT,84001
+,INSERT,2026-01-23T10:00:00Z,Suhail,Mahajan,suhail.mahajan@example.com,555-1005,Salt Lake,UT,84009
+1005,INSERT,2026-01-23T10:00:00Z,Nakul,ARORA,nakul.arora@example.com,555-1005,Salt Lake,UTAH,84001
+1006,INSERT,2026-01-23T11:00:00Z,SRIRAM,sankar,sriram.SANKAR@example.com,555-1006,Salt Lake,UT,84009
+1002,UPDATE,2026-01-20T08:03:00Z,Bob,Jones,bjones@example.com,999-9999,Boulder,CO,99999

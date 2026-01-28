@@ -1,0 +1,2 @@
+cust_id,event_type,event_ts,first_name,last_name,email,phone,addr_city,addr_state,addr_postal
+1001,UPDATE,2026-01-20T08:30:00Z,Alice,M.,alice.m@example.com,555-1001,Denver,CO,80202
